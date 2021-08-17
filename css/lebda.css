@@ -342,6 +342,7 @@ html{
 .About .About-content .image .lebda {
     width: 300px;
     height: 300px;
+    text-align: center;
 }
 .About{
     padding-top: 60px;
